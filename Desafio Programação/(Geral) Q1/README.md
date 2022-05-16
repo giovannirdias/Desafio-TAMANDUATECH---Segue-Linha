@@ -1,3 +1,5 @@
+# (Geral) 1. Organização de dados
+
 **Como você organizaria esses dados, pensando em formas de programação estruturada ou orientada a objetos?**
 
 Para a organização desses dados fornecidos na árvore de dados do robô seguidor de linha optou-se por utilizar o paradigma de programação orientada a objetos, pois teremos uma passagem por referência implicando em maior rapidez devido a não duplicação dos dados da memória, como também uma abordagem baseada em classes e heranças para agrupar os métodos e atributos de cada nó não-folha da árvore.
