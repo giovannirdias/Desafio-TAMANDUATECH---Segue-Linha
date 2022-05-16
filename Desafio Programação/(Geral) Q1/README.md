@@ -1,4 +1,4 @@
-# (Geral) 1. Organização de dados
+# 1. Organização de dados (Geral)
 
 **Como você organizaria esses dados, pensando em formas de programação estruturada ou orientada a objetos?**
 
