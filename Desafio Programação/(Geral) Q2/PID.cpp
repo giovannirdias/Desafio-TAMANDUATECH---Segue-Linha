@@ -3,11 +3,11 @@
 
 void valuesPID::vTaskCalcularPID(float *input, float *output){
     // Calculo do erro atual
-    float error = this->setPoint - *input;
+    float error = this->setPoint - (*input);
     // Componentes do controlador
     float P = error * this->Kp;                      // Proporcional
-    this->I += error*(*output)*this->Ki;             // Integrativo
-    float D = (error - this->prevError)/(*output);   // Derivativo
+    this->I += error * (*output) * this->Ki;             // Integrativo
+    float D = this->Kd * (error - this->prevError)/(*output);   // Derivativo
     
     // Calculo para o ajuste dos motores
     this->ajuste = P + this->I + D;
