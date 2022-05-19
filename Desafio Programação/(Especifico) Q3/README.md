@@ -8,8 +8,11 @@ Abaixo apresenta-se as fórmulas para cálculo desse parâmetros:
 
 ### **Observações** 
 PPR (Pulsos por Revolução): equivale a resolução do encoder, ou seja, a quantidade de quadrantes do disco, sendo obtida a partir da relação 360°/(menor incremento de medição).
+
 R: Raio da roda.
+
 N_T: Quantidade de pulsos contados.
+
 N_R: Número de pulsos por revolução.
 
 Para determinar esses parâmetros deve-se obter as informações sobre o enconder. Assim, sabe-se que sua funcionalidade é transformar posição em sinal elétrico digital e para isso ocorrer temos três sinais de saída digital (A, B e O) com valores de alta(1) e baixa(0). Através desse sinais obtém-se o ângulo de rotação, o sentido de rotação e o início e fim de um volta, além de descrever a partir das ondas quadradas A ou B o número de pulsos altos do encoder (PPR).
