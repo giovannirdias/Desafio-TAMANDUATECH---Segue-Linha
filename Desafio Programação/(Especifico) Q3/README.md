@@ -20,8 +20,9 @@ Assim, as figuras abaixo mostram o comportamento dessa ondas relacionando-as com
 
 ![](https://github.com/giovannirdias/Desafio-TAMANDUATECH---Segue-Linha/blob/main/Desafio%20Programa%C3%A7%C3%A3o/(Especifico)%20Q3/CW_motor.jpg)
 
-**"Pseudo-código":** detectar as bordas de sinal digital A, verificando o estado do sinal B para definir o sentido de rotação.
+**"Pseudo-código":** detectar as bordas de sinal digital A, verificando o estado do sinal B para definir o sentido de rotação e realizando a contagem.
 
 ![](https://github.com/giovannirdias/Desafio-TAMANDUATECH---Segue-Linha/blob/main/Desafio%20Programa%C3%A7%C3%A3o/(Especifico)%20Q3/CCW_motor.jpg)
 
-**"Pseudo-código":** detectar as bordas de sinal digital B, verificando o estado do sinal A para definir o sentido de rotação.
+**"Pseudo-código":** detectar as bordas de sinal digital B, verificando o estado do sinal A para definir o sentido de rotação e realizando a contagem.
+
