@@ -2,7 +2,7 @@
 
 **Considerar a leitura de um sinal enviado por um botão para o desenvolvimento de um algoritmo que conte a quantidade de vezes que ele foi pressionado**
 
-A figura abaixo é um fluxograma apresentando um possível algoritmo para leitura do sinal enviado pelo botão, seguindo as condições estabelecidas na questão. Além disso, é apresentado um [código utilizando o Arduino]() para verificar a validade desse algoritmo proposto, considerando a necessidade de aplicação do efeito debouncing que é explicado também nessa file.
+A figura abaixo é um fluxograma apresentando um possível algoritmo para leitura do sinal enviado pelo botão, seguindo as condições estabelecidas na questão. Além disso, é apresentado um [código utilizando o Arduino](https://github.com/giovannirdias/Desafio-TAMANDUATECH---Segue-Linha/blob/main/Desafio%20Programa%C3%A7%C3%A3o/(Especifico)%20Q4/push_button.ino) para verificar a validade desse algoritmo proposto, considerando a necessidade de aplicação do efeito debouncing que é explicado também nessa file.
 
 ![](https://github.com/giovannirdias/Desafio-TAMANDUATECH---Segue-Linha/blob/main/Desafio%20Programa%C3%A7%C3%A3o/(Especifico)%20Q4/fluxograma_push_button.png)
 
