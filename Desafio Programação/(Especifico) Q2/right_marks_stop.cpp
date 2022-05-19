@@ -1,16 +1,12 @@
 /* Comentarios sobre o codigo abaixo:
--> Bibliotecas:
-   - motor.h: Contem a classe do motor onde ha os atributos 
-    de velocidade e metodos de controle do sentido de            rotacao.
-   - robot.h: Contem a classe valuesCar com estado do 
-    seguidor de linha.
-   - interface.h: Contem atributos e metodos associados a 
-    ferramentas auxiliares ao percurso da pista, como o 
-    botao de inicializacao da volta.
-   - sensors.h: Contem as classes valuesMarks e valuesSLat 
-    relacionadas aos sensores frontais e laterais         
-    responsáveis pela orientacao correta do modelo durante a 
-    volta.
+   -> Foi considerado a existencia das seguintes bibliotecas:
+   - motor.h: Contem a classe do motor onde ha os atributos de velocidade e metodos de controle do 
+     sentido de rotacao.
+   - robot.h: Contem a classe valuesCar com estado do seguidor de linha.
+   - interface.h: Contem atributos e metodos associados a ferramentas auxiliares ao percurso da pista, 
+     como o botao de inicializacao da volta.
+   - sensors.h: Contem as classes valuesMarks e valuesSLat relacionadas aos sensores frontais e laterais         
+     responsáveis pela orientacao correta do modelo durante a volta.
 */
 
 #include <iostream>
