@@ -1,4 +1,4 @@
-# [Opcional] 4. Descrever algoritmo para leitura de um botão (Específicos da categoria) 
+# 2. Explique o funcionamento de um encoder, magnético ou óptico.
 
 
 
