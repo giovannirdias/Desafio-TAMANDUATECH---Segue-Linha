@@ -1,4 +1,4 @@
-# [Opcional] 4. Descrever algoritmo para leitura de um botão (Específicos da categoria) 
+# 1. Construção do circuito eletrônico de um seguidor de linha, incluindo atuadores, sensores e microntrolador.
 
 
 
