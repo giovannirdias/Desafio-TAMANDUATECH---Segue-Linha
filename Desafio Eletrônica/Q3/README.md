@@ -1,4 +1,4 @@
-# [Opcional] 4. Descrever algoritmo para leitura de um botão (Específicos da categoria) 
+# [Opcional] 3. Desenvolvimento do circuito regulador de tensão  step-down (conversor DC-DC)
 
 
 
