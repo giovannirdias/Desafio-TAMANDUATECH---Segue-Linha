@@ -1,7 +1,7 @@
 #include <iostream>
 #include "PID.h"
 
-int base_speed = 200;
+int base_speed = 204;
 int min_speed = -255;
 int max_speed = 255;
 
