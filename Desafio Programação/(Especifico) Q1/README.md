@@ -10,7 +10,8 @@ Abaixo é apresentado o diagrama de blocos para esse sistema, demonstrando a ló
 
 Em relação ao algoritmo do segue-linha, será utilizado a leitura dos sensores (bits representando o status de cada sensor frontal) e o sinal de erro na função vTaskCalcularPID para determinar o ajuste necessário da velocidade para anulamento do erro. Assim, aplica-se esse ajuste sob uma velocidade de referência, que no caso para facilitar a sintonização do controlador PID foi definido como k = 80% da velocidade máxima e para efetiva aplicação sob o motores é utilizado a função adicional set_motor(int, int) para alterar o nível de tensão com PWM do motor para provocar esse alteração de valor ou até sentido de rotação, cabendo ressaltar que o intervalo de valores de PWM do motor é [-255, 255], não podendo desviar desses valores.
 
-vel_Motor_esq = k - ajuste; <\br >
+vel_Motor_esq = k - ajuste;
+
 vel_Motor_dir = k + ajuste;
 
 Abaixo é apresentado o fluxograma da utilização da leitura dos sensores para ajuste das velocidade dos motores, onde utiliza-se atributos e métodos associados a classes como PID.h e motor.h:
