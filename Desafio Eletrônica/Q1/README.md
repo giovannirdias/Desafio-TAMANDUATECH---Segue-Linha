@@ -4,13 +4,13 @@ Em anexo é apresentado um [arquivo .pdf](https://github.com/giovannirdias/Desaf
 
 O circuito eletrônico de um robô seguidor de linha inclui os seguintes elementos:
 1. Microcontrolador. (Arduino NANO)
-2. Drive motor em Ponte H. No caso do , o modelo TB6612FNG.
+2. Drive motor em Ponte H. No caso, o modelo TB6612FNG.
 3. Motores CC, especificamente adotado o 10:1 Micro Metal Gearmotor HP 6V.
 4. Encoders, especificamente do tipo magnético.
 5. Bateria.
 6. Regulador de tensão.
 7. Placa de circuito impresso, que também é o chassi do robô.
-8. Sensores infravermelhos frontais e laterais, no caso foi utilizado o modelo CNY70 para formar os módulos de sensores óticos reflexivos com emissor infravermelho e um fototransitor.
+8. Sensores infravermelhos frontais e laterais, que no caso foi utilizado o modelo CNY70 para formar os módulos de sensores óticos reflexivos com emissor infravermelho e um fototransitor.
 
 **Referências**
 
