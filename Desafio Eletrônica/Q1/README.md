@@ -1,6 +1,6 @@
 # 1. Construção do circuito eletrônico de um seguidor de linha, incluindo atuadores, sensores e microntrolador.
 
-Em anexo é apresentado um [arquivo .pdf](https://github.com/giovannirdias/Desafio-TAMANDUATECH---Segue-Linha/blob/main/Desafio%20Eletr%C3%B4nica/Q1/Circuitos_Seguidor_de_Linha.pdf) com os circuitos eletrônicos incluindo os atuadores, sensores e microcontrolador.
+Em anexo é apresentado um [arquivo .pdf](https://github.com/giovannirdias/Desafio-TAMANDUATECH---Segue-Linha/blob/main/Desafio%20Eletr%C3%B4nica/Q1/Circuitos_Seguidor_de_Linha.pdf) com os circuitos eletrônicos incluindo os atuadores, sensores e microcontrolador, onde devido ao tamanho da folha de desenho optou-se por separar a parte dos sensores conectados ao microcontrolador da parte dos circuitos eletrônicos envolvendo os motores e suas conexões com o mesmo microcontrolador.
 
 O circuito eletrônico de um robô seguidor de linha inclui os seguintes elementos:
 1. Microcontrolador. (Arduino NANO)
