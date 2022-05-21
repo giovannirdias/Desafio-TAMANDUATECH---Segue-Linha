@@ -14,14 +14,14 @@ O circuito eletrônico de um robô seguidor de linha inclui os seguintes element
 
 **Referências**
 
-1) Magnetic Encoder Pair Kit for Micro Metal Gearmotors, 12 CPR, 2.7-18V
+Magnetic Encoder Pair Kit for Micro Metal Gearmotors, 12 CPR, 2.7-18V
 
 https://www.pololu.com/product/3081
 
-2) 10:1 Micro Metal Gearmotor HP 6V
+10:1 Micro Metal Gearmotor HP 6V
 
 https://www.pololu.com/product/999
 
-3) CNY70
+CNY70
 
 https://www.allaboutcircuits.com/electronic-components/datasheet/CNY70--Vishay/
